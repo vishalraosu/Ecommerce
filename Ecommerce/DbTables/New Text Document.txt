@@ -1,0 +1,6 @@
+sonar.projectKey=java-sonar-runner-simple
+sonar.projectName=SpringMVCHibernate
+sonar.projectVersion=1.0
+sonar.sources=src
+sonar.language=java
+sonar.sourceEncoding=UTF-8
