@@ -1,0 +1,11 @@
+The above project is an E-commerce application.
+Basic Requirement and installations Required.
+  . Eclipse or Spring Tool Suite.
+  . DataBase MYSQL,ORACLE or any other DataBase.
+  . Set DataBase name as ecommerce.
+  . Set the driver according to what database you are using.(This is set using MSQL
+  . Check the specifications of username and password in properties file and give your credentials.
+  . Import all the csv file from DB-table from the project to your local Database.
+  . Incase if you have any issues in the project .Look into the BuildPath and Maven Update if required.
+  
+Run the Ecommerce Service after Running the Product and User Services.
